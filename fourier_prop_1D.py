@@ -20,8 +20,7 @@ from scipy.optimize import curve_fit
 import numpy as np
 import matplotlib as mpl
 import tqdm
-import warnings
-warnings.filterwarnings("ignore", message="invalid value encountered in arcsin")
+
 
 
 
